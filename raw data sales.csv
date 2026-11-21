@@ -1,0 +1,26 @@
+date,transaction_id,branch,category,product,quantity,unit_price,discount,customer_id
+2025-04-13,T00001,West,Home & Kitchen,Cookware Set,1,1961.91,5,C0021
+2025-08-22,T00002,Central,Clothing,T-Shirt,2,612.45,10,C0345
+2025-11-05,T00003,North,Electronics,Headphones,3,1745.20,15,C0112
+2025-02-18,T00004,South,Groceries,Rice Pack,2,518.90,0,C0489
+2025-12-19,T00005,Central,Electronics,Speaker,4,2510.15,20,C0078
+2025-06-09,T00006,East,Beauty,Perfume,1,1055.40,5,C0234
+2025-09-27,T00007,North,Clothing,Jacket,2,2895.60,10,C0156
+2025-01-14,T00008,Central,Groceries,Cooking Oil,3,172.80,0,C0401
+2025-10-30,T00009,West,Home & Kitchen,Mixer,2,2488.30,15,C0092
+2025-03-22,T00010,South,Beauty,Face Wash,1,261.15,5,C0318
+2025-07-11,T00011,Central,Clothing,Jeans,1,1430.75,10,C0277
+2025-05-03,T00012,East,Electronics,Keyboard,2,1248.90,0,C0184
+2025-11-24,T00013,North,Groceries,Snacks,5,83.40,10,C0450
+2025-08-15,T00014,Central,Home & Kitchen,Bedsheet,2,864.20,5,C0063
+2025-04-29,T00015,South,Electronics,Mouse,1,678.50,0,C0392
+2025-12-08,T00016,West,Clothing,Shoes,3,2115.80,25,C0141
+2025-02-04,T00017,North,Beauty,Shampoo,2,334.10,5,C0299
+2025-09-10,T00018,Central,Groceries,Beverages,4,58.20,10,C0415
+2025-06-25,T00019,East,Home & Kitchen,Storage Box,1,365.90,0,C0088
+2025-10-12,T00020,South,Beauty,Skin Cream,3,432.60,15,C0367
+2025-03-07,T00021,Central,Electronics,Headphones,2,1854.00,10,C0125
+2025-07-30,T00022,North,Clothing,T-Shirt,1,576.40,0,C0472
+2025-11-18,T00023,West,Groceries,Rice Pack,3,485.10,5,C0210
+2025-05-19,T00024,East,Electronics,Speaker,2,2310.45,15,C0331
+2025-01-28,T00025,Central,Clothing,Jacket,1,2740.00,10,C0054
